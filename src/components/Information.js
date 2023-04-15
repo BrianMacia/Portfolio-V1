@@ -38,13 +38,13 @@ const Information = () => {
 
 
 
-          <div className="myInfoCard">
+          <div className="myInfoCard01">
         <div>
           <span>Full Stack Web</span>
           <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack</p>
         </div>
         <div>
-          <span>HTML, CSS y Javascript</span>
+          <span>Fundamentos Web</span>
           <p className="myInfoCardText">Certificado de fundamentos en HTML, CSS y Javascript</p>
         </div>
         <div>

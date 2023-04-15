@@ -66,17 +66,44 @@
 }
 
 .myInfoCard div:nth-child(1):hover {
-  background-image: url("https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D179942768W10000H7332/views/1,width=378,height=378,appearanceId=839,backgroundColor=F2F2F2/27-anos-de-edad-27-anos-de-oro-regalo-de-cumpleanos-numero-27.jpg");
+  background-image: url("");
 }
 
 .myInfoCard div:nth-child(2):hover {
-  background-image: url("https://www.cepal.org/sites/default/files/styles/1920x1080/public/regionaloffice/images/buenos_aires.jpg?itok=G6IZhj58");
+  background-image: url("");
 }
 
 .myInfoCard div:nth-child(3):hover {
-  background-image: url("https://los40es00.epimg.net/los40/imagenes/2020/01/28/album/1580198583_431629_1580203483_portada_normal.jpg");
+  background-image: url("");
 }
 
 .myInfoCard div:nth-child(4):hover {
+  background-image: url("");
+}
+
+
+
+
+
+
+
+
+.myInfoCard01 div:hover .myInfoCardText {
+  opacity: 1;
+}
+
+.myInfoCard01 div:nth-child(1):hover {
+  background-image: url("https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D179942768W10000H7332/views/1,width=378,height=378,appearanceId=839,backgroundColor=F2F2F2/27-anos-de-edad-27-anos-de-oro-regalo-de-cumpleanos-numero-27.jpg");
+}
+
+.myInfoCard01 div:nth-child(2):hover {
+  background-image: url("https://www.cepal.org/sites/default/files/styles/1920x1080/public/regionaloffice/images/buenos_aires.jpg?itok=G6IZhj58");
+}
+
+.myInfoCard01 div:nth-child(3):hover {
+  background-image: url("https://los40es00.epimg.net/los40/imagenes/2020/01/28/album/1580198583_431629_1580203483_portada_normal.jpg");
+}
+
+.myInfoCard01 div:nth-child(4):hover {
   background-image: url("https://www.lavanguardia.com/files/image_948_465/uploads/2019/01/02/5fa52129a7233.jpeg");
 }
