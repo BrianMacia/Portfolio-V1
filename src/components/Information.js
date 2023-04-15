@@ -61,7 +61,7 @@ const Information = () => {
 
 
     <li className="card-education">
-            <h4>FUNDAMENTOS EN HTML,CSS Y JAVASCRIPT</h4>  
+    <span>FUNDAMENTOS EN HTML,CSS Y JAVASCRIPT</span>
     </li>
   <div className="myInfoCard02">
    <div>
@@ -88,7 +88,7 @@ const Information = () => {
 
 
     <li className="card-education">
-            <h4>REACT  </h4>  
+            <span>REACT  </span> 
     </li>
 
    <div className="myInfoCard03">
@@ -116,7 +116,7 @@ const Information = () => {
 
 
     <li className="card-education">
-            <h4>NODE.JS  </h4>  
+    <span> NODE.JS  </span>   
     </li>
 
    <div className="myInfoCard04">
