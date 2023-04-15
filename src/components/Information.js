@@ -47,7 +47,7 @@ const Information = () => {
   </div>
 
     <li className="card-education">
-            <span><a href="https://certificates.academlo.com/en/verify/60635838424675"><h1>VERIFICAR EN WEB</h1></a></span>
+            <span><a href="https://certificates.academlo.com/en/verify/60635838424675"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
     </li>
 
   <div className="myInfoCard01">
@@ -58,7 +58,7 @@ const Information = () => {
   </div>
 
   <li className="card-education">
-            <span><a href="https://certificates.academlo.com/en/verify/64738374161194">VERIFICAR EN WEB</a></span>
+            <span><a href="https://certificates.academlo.com/en/verify/64738374161194"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
     </li>
 
 
@@ -71,7 +71,7 @@ const Information = () => {
 
 
   <li className="card-education">
-            <span><a href="https://certificates.academlo.com/en/verify/44295574101172">VERIFICAR EN WEB</a></span>
+            <span><a href="https://certificates.academlo.com/en/verify/44295574101172"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
     </li>
 
 
@@ -83,7 +83,7 @@ const Information = () => {
     </div>
     
     <li className="card-education">
-            <span><a href="https://certificates.academlo.com/en/verify/01441593906296">VERIFICAR EN WEB</a></span>
+            <span><a href="https://certificates.academlo.com/en/verify/01441593906296"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
     </li>
 
 
