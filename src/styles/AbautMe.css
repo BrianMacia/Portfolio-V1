@@ -135,13 +135,11 @@
   align-items: center;
   position: relative;
   background-blend-mode: multiply;
-
+  background-color: var(--transparent-color);
 }
 
 .myInfoCard01 div:hover {
-  flex: 4;
-  background-size: cover;
-  background-position: center;
+  
 }
 
 
