@@ -37,6 +37,9 @@ const Information = () => {
           </li>
 
           
+          <li className="card-education">
+            <h4>CERTIFICADO FULL STACK</h4>  
+    </li>
 
   <div className="myInfoCard01">
       <div>
@@ -51,6 +54,15 @@ const Information = () => {
             <span><a href="https://certificates.academlo.com/en/verify/60635838424675"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
     </li>
 
+
+
+
+
+
+
+    <li className="card-education">
+            <h4>FUNDAMENTOS EN HTML,CSS Y JAVASCRIPT</h4>  
+    </li>
   <div className="myInfoCard02">
    <div>
    
@@ -65,6 +77,20 @@ const Information = () => {
     </li>
 
 
+
+
+
+
+
+
+
+
+
+
+    <li className="card-education">
+            <h4>REACT  </h4>  
+    </li>
+
    <div className="myInfoCard03">
    <div>
      <span>React</span>
@@ -74,11 +100,23 @@ const Information = () => {
 
 
   <li className="card-education">
-            <h4>REACT  </h4>  
             <span><a href="https://certificates.academlo.com/en/verify/44295574101172"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
             
     </li>
 
+
+
+
+
+
+
+
+
+
+
+    <li className="card-education">
+            <h4>NODE.JS  </h4>  
+    </li>
 
    <div className="myInfoCard04">
      <div>
