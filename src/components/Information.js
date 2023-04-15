@@ -48,7 +48,6 @@ const Information = () => {
 
     <li className="card-education">
             <span><a href="https://certificates.academlo.com/en/verify/60635838424675">VERIFICAR EN WEB</a></span>
-            <p>Diferentes conceptos de la Programación.</p>
     </li>
 
   <div className="myInfoCard01">
@@ -58,12 +57,9 @@ const Information = () => {
     </div>
   </div>
 
-          <li className="card-education">
-            <span>AGO_2021 - ...</span>
-            <h4>Udemy - Youtube - Google - ...</h4>
-            <h6>Autodidacta</h6>
-            <p>Diferentes conceptos de la Programación.</p>
-          </li>
+  <li className="card-education">
+            <span><a href="https://certificates.academlo.com/en/verify/64738374161194">VERIFICAR EN WEB</a></span>
+    </li>
 
 
    <div className="myInfoCard01">
@@ -74,12 +70,9 @@ const Information = () => {
   </div>
 
 
-          <li className="card-education">
-            <span>AGO_2021 - ...</span>
-            <h4>Udemy - Youtube - Google - ...</h4>
-            <h6>Autodidacta</h6>
-            <p>Diferentes conceptos de la Programación.</p>
-          </li>
+  <li className="card-education">
+            <span><a href="https://certificates.academlo.com/en/verify/44295574101172">VERIFICAR EN WEB</a></span>
+    </li>
 
 
    <div className="myInfoCard01">
@@ -89,12 +82,9 @@ const Information = () => {
      </div>
     </div>
     
-           <li className="card-education">
-            <span>AGO_2021 - ...</span>
-            <h4>Udemy - Youtube - Google - ...</h4>
-            <h6>Autodidacta</h6>
-            <p>Diferentes conceptos de la Programación.</p>
-          </li>
+    <li className="card-education">
+            <span><a href="https://certificates.academlo.com/en/verify/01441593906296">VERIFICAR EN WEB</a></span>
+    </li>
 
 
         
