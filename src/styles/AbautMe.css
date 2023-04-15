@@ -119,7 +119,7 @@
   margin: auto;
   height: 200px;
   border-radius: 4px;
-  background: wheat;
+  background: transparent;
   display: flex;
   gap: 5px;
   padding: 0.4em;
