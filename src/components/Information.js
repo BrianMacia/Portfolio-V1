@@ -44,21 +44,9 @@ const Information = () => {
           
           
            <div>
-
-            
-            
-       
           <span>Full Stack Web  </span> 
-          
           <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack </p>
-          
-          
         </div>
-       
-
-
-
-
         <div>
           <span>Conceptos Web</span>
           <p className="myInfoCardText">Certificado de fundamentos en HTML, CSS y Javascript</p>
@@ -73,6 +61,13 @@ const Information = () => {
         </div>
       </div>
 
+      <li className="card-education">
+            <span>AGO_2021 - ...</span>
+            <h4>Udemy - Youtube - Google - ...</h4>
+            <h6>Autodidacta</h6>
+            <p>Diferentes conceptos de la Programación.</p>
+          </li>
+
 
 
           <li className="card-education">
@@ -82,6 +77,12 @@ const Information = () => {
             <p>Diferentes conceptos de la Programación.</p>
           </li>
 
+          <li className="card-education">
+            <span>AGO_2021 - ...</span>
+            <h4>Udemy - Youtube - Google - ...</h4>
+            <h6>Autodidacta</h6>
+            <p>Diferentes conceptos de la Programación.</p>
+          </li>
 
 
         </ul>
