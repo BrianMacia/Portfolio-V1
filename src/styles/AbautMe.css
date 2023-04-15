@@ -112,14 +112,13 @@
 
 
 
-
 .myInfoCard01 {
   width: 100%;
   max-width: 350px;
   margin: auto;
   height: 200px;
   border-radius: 4px;
-  background: transparent;
+  background: var(--solid-color);
   display: flex;
   gap: 5px;
   padding: 0.4em;
@@ -128,7 +127,9 @@
 .myInfoCard01 div {
   height: 100%;
   flex: 1;
-  
+  overflow: hidden;
+  border-radius: 2px;
+  transition: all 0.5s;
   border: 1px solid var(--primary-color);
   display: flex;
   justify-content: center;
@@ -144,21 +145,21 @@
   background-position: center;
 }
 
-
+.myInfoCard01 div span {
+  min-width: 10em;
+  padding: 0.5em;
+  text-align: center;
+  
+  transition: all 0.5s;
+  text-transform: uppercase;
+  color: var(--primary-color);
+  letter-spacing: 0.1em;
+}
 
 .myInfoCard01 div:hover span {
   
-  color: #0df7d0;
+  color: #fff;
 }
-
-
-
-
-
-
-
-
-
 
 .myInfoCardText01 {
   min-width: 100px;
@@ -167,12 +168,13 @@
   text-align: center;
   padding: 10px 5px;
   font-size: 12px;
- 
+  opacity: 0;
   border-radius: 10px;
   color: #fff;
   border: 1px solid #fff;
-  
+  transition: 0.3s;
 }
+
 
 
 
