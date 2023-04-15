@@ -119,7 +119,7 @@
   margin: auto;
   height: 200px;
   border-radius: 4px;
-  background: var(--solid-color);
+  background: wheat;
   display: flex;
   gap: 5px;
   padding: 0.4em;
@@ -139,7 +139,9 @@
 }
 
 .myInfoCard01 div:hover {
-  
+  flex: 4;
+  background-size: cover;
+  background-position: center;
 }
 
 
