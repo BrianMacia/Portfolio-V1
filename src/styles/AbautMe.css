@@ -209,3 +209,32 @@
 .myInfoCard04 div:nth-child(4):hover {
   background-image: url("https://user-images.githubusercontent.com/43327840/232231293-d9417daf-5c3d-4b4b-8b37-9c8ad43bbdb9.png");
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.myInfoCard02 div:hover .myInfoCardText {
+  opacity: 1;
+}
+
+.myInfoCard02 div:nth-child(1):hover {
+  background-image: url("https://user-images.githubusercontent.com/43327840/232231162-25ac7d04-97ed-4fa7-aa27-0db8311ea81b.png");
+}
