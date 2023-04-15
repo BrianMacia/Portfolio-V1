@@ -45,7 +45,8 @@ const Information = () => {
           
           <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack</p>
           
-          <a href="https://certificates.academlo.com/en/verify/60635838424675">VERIFICAR</a>
+          <div href="https://certificates.academlo.com/en/verify/60635838424675">VERIFICAR
+          </div>
         </div>
         <div>
           <span>Conceptos Web</span>
