@@ -45,7 +45,7 @@ const Information = () => {
           <body>
             <a href="http://example.com/" style="color:#FF0000;">Red Link</a>
             </body>
-          <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack <a href="https://certificates.academlo.com/en/verify/60635838424675"> CERTIFICAR EN WEB  </a> </p>
+          <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack <a href="https://certificates.academlo.com/en/verify/60635838424675" style="color:#FF0000;" > CERTIFICAR EN WEB  </a> </p>
           
           
         </div>
