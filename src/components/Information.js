@@ -38,7 +38,7 @@ const Information = () => {
 
           
           <li className="card-education">
-            <h4>CERTIFICADO FULL STACK</h4>  
+            <h4>CERTIFICADOS:</h4>  
     </li>
 
   <div className="myInfoCard01">
@@ -64,7 +64,7 @@ const Information = () => {
   <div className="myInfoCard02">
    <div>
    
-      <span>Conceptos Web</span>
+      <span>Fundamentos Web</span>
         <p className="myInfoCardText">Certificado de fundamentos en HTML, CSS y Javascript</p>
     </div>
   </div>
