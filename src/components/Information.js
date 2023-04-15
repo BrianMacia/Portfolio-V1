@@ -55,13 +55,16 @@ const Information = () => {
     </li>
 
 
-
+    <h2 className="secondary-subtitle">
+          <i className="bx bxs-graduation bx-tada bx-flip-horizontal"></i>
+          Educación
+        </h2>
 
 
 
 
     <li className="card-education">
-    <span>FUNDAMENTOS EN HTML,CSS Y JAVASCRIPT</span>
+    <h4>FUNDAMENTOS EN HTML,CSS Y JAVASCRIPT</h4>
     </li>
   <div className="myInfoCard02">
    <div>
