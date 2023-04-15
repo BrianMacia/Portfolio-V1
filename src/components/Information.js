@@ -43,14 +43,7 @@ const Information = () => {
         <a href="https://es.stackoverflow.com/users/320282/brian-macia"> </a>
           <span>Full Stack Web </span> 
           <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack</p>
-          <a
-                className="btn-cursor-hover2"
-                
-                target="_blank"
-                rel="noreferrer"
-              >
-                <i className="bx bxl-stack-overflow"></i>
-              </a>
+          
         </div>
         <div>
           <span>Conceptos Web</span>
