@@ -44,12 +44,12 @@ const Information = () => {
           <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack </p>
         </div>
         
-  </div>
+     
 
     <li className="card-education">
             <span><a href="https://certificates.academlo.com/en/verify/60635838424675"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
     </li>
-
+  </div>
   <div className="myInfoCard01">
    <div>
       <span>Conceptos Web</span>
