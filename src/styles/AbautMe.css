@@ -245,7 +245,7 @@
   min-width: 10em;
   padding: 0.5em;
   text-align: center;
-  transform: rotate(-90deg);
+  
   transition: all 0.5s;
   text-transform: uppercase;
   color: var(--primary-color);
@@ -253,7 +253,7 @@
 }
 
 .myInfoCard02 div:hover span {
-  transform: rotate(0);
+  
   color: #fff;
 }
 
