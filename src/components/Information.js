@@ -41,19 +41,19 @@ const Information = () => {
           <div className="myInfoCard01">
         <div>
           <span>Full Stack Web</span>
-          <p className="myInfoCardText01">Certificado de programa de desarrollo web Full Stack</p>
+          <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack</p>
         </div>
         <div>
           <span>Fundamentos Web</span>
-          <p className="myInfoCardText01">Certificado de fundamentos en HTML, CSS y Javascript</p>
+          <p className="myInfoCardText">Certificado de fundamentos en HTML, CSS y Javascript</p>
         </div>
         <div>
           <span>React</span>
-          <p className="myInfoCardText01">Certificado en el desarrollo front-end con el módulo React</p>
+          <p className="myInfoCardText">Certificado en el desarrollo front-end con el módulo React</p>
         </div>
         <div>
           <span>Node.js</span>
-          <p className="myInfoCardText01">Certificado en desarrollo Back-End con Node.js</p>
+          <p className="myInfoCardText">Certificado en desarrollo Back-End con Node.js</p>
         </div>
       </div>
 
