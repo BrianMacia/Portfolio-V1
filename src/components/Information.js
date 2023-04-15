@@ -91,7 +91,7 @@ const Information = () => {
 
 
     <li className="card-education">
-            <span>REACT  </span> 
+            <h4>REACT  </h4> 
     </li>
 
    <div className="myInfoCard03">
@@ -119,7 +119,7 @@ const Information = () => {
 
 
     <li className="card-education">
-    <span> NODE.JS  </span>   
+    <h4> NODE.JS  </h4>   
     </li>
 
    <div className="myInfoCard04">
