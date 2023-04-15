@@ -56,7 +56,7 @@ const Information = () => {
 
 
     <h2 className="secondary-subtitle">
-          <i className="bx bxs-graduation bx-tada bx-flip-horizontal"></i>
+         
           Educación
         </h2>
 
