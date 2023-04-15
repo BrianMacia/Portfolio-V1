@@ -47,11 +47,9 @@ const Information = () => {
 
             
             
-       
-          <span>Full Stack Web  </span> 
-          <li className="card-education">
            <span>Verificar certificado en web</span>
-           </li>
+          <span>Full Stack Web  </span> 
+          
           <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack </p>
           
           
