@@ -219,6 +219,81 @@
 
 
 
+.myInfoCard02 {
+  width: 100%;
+  max-width: 350px;
+  margin: auto;
+  height: 200px;
+  border-radius: 4px;
+  background: var(--solid-color);
+  display: flex;
+  gap: 5px;
+  padding: 0.4em;
+}
+
+.myInfoCard02 div {
+  height: 100%;
+  flex: 1;
+  overflow: hidden;
+  border-radius: 2px;
+  transition: all 0.5s;
+  border: 1px solid var(--primary-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-blend-mode: multiply;
+  background-color: var(--transparent-color);
+}
+
+.myInfoCard02 div:hover {
+  flex: 4;
+  background-size: cover;
+  background-position: center;
+}
+
+.myInfoCard02 div span {
+  min-width: 10em;
+  padding: 0.5em;
+  text-align: center;
+  transform: rotate(-90deg);
+  transition: all 0.5s;
+  text-transform: uppercase;
+  color: var(--primary-color);
+  letter-spacing: 0.1em;
+}
+
+.myInfoCard02 div:hover span {
+  transform: rotate(0);
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+.myInfoCardText02 {
+  min-width: 100px;
+  position: absolute;
+  bottom: 20px;
+  text-align: center;
+  padding: 10px 5px;
+  font-size: 12px;
+  opacity: 0;
+  border-radius: 10px;
+  color: #fff;
+  border: 1px solid #fff;
+  transition: 0.3s;
+}
+
+
+
+
 .myInfoCard02 div:hover .myInfoCardText {
   opacity: 1;
 }
