@@ -60,9 +60,7 @@ const Information = () => {
 
 
 
-    <li className="card-education">
-    <h4>FUNDAMENTOS EN HTML,CSS Y JAVASCRIPT</h4>
-    </li>
+    
   <div className="myInfoCard02">
    <div>
    
@@ -87,9 +85,7 @@ const Information = () => {
 
 
 
-    <li className="card-education">
-            <h4>REACT  </h4> 
-    </li>
+    
 
    <div className="myInfoCard03">
    <div>
@@ -115,9 +111,7 @@ const Information = () => {
 
 
 
-    <li className="card-education">
-    <h4> NODE.JS  </h4>   
-    </li>
+    
 
    <div className="myInfoCard04">
      <div>
