@@ -62,7 +62,7 @@ const Information = () => {
     </li>
 
 
-   <div className="myInfoCard01">
+   <div className="myInfoCard03">
    <div>
      <span>React</span>
      <p className="myInfoCardText">Certificado en el desarrollo front-end con el módulo React</p>
@@ -75,7 +75,7 @@ const Information = () => {
     </li>
 
 
-   <div className="myInfoCard01">
+   <div className="myInfoCard04">
      <div>
           <span>Node.js</span>
           <p className="myInfoCardText">Certificado en desarrollo Back-End con Node.js</p>
