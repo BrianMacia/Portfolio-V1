@@ -114,7 +114,11 @@
 
 
 .myInfoCard01 {
-  
+  border-radius: 4px;
+  background: var(--solid-color);
+  display: flex;
+  gap: 5px;
+  padding: 0.4em;
   border-radius: 4px;
   background: var(--solid-color);
   display: flex;
