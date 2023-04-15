@@ -42,8 +42,8 @@ const Information = () => {
         <div>
         
           <span>Full Stack Web </span> 
-          <a href="https://es.stackoverflow.com/users/320282/brian-macia"> asdasd </a>
-          <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack</p>
+          
+          <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack <a href="https://es.stackoverflow.com/users/320282/brian-macia"> Link </a></p>
           
         </div>
         <div>
