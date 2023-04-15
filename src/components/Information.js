@@ -6,7 +6,7 @@ import iExpress from "../assets/icon-express.svg";
 
 
 
-
+/* e hace  -/-<a href="https://certificates.academlo.com/en/verify/60635838424675"></a> pero es asi */
 
 const Information = () => {
   const active = useSelector((state) => state.seeSection);
@@ -36,17 +36,30 @@ const Information = () => {
             
           </li>
 
-
-
-          <div className="myInfoCard01">
-        <div>
-        
-          <span>Full Stack Web  </span> 
-          <a href="https://certificates.academlo.com/en/verify/60635838424675"> <h2>VERIFICAR</h2> </a>
-          <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack</p>
           
+
+      <div className="myInfoCard01">
+          
+          
+          
+          
+           <div>
+
+            
+            
+        <h2>VERIFICAR</h2> 
+          <span>Full Stack Web  </span> 
+           <h2>VERIFICAR</h2> 
+          <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack</p>
+          <h2>VERIFICAR</h2> 
           
         </div>
+
+
+
+
+
+
         <div>
           <span>Conceptos Web</span>
           <p className="myInfoCardText">Certificado de fundamentos en HTML, CSS y Javascript</p>
