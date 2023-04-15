@@ -40,11 +40,11 @@ const Information = () => {
 
           <div className="myInfoCard01">
         <div>
-          <span>Full Stack Web</span>
+          <span>Full Stack Web </span> <a href="https://es.stackoverflow.com/users/320282/brian-macia"> </a>
           <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack</p>
           <a
                 className="btn-cursor-hover2"
-                href="https://es.stackoverflow.com/users/320282/brian-macia"
+                
                 target="_blank"
                 rel="noreferrer"
               >
