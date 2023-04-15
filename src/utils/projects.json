@@ -31,7 +31,7 @@
 
   {
     "id": 5,
-    "category": "full",
+    "category": "front",
     "name": "CRUD",
     "img": "https://user-images.githubusercontent.com/43327840/218867733-74d72cbd-f050-485a-b241-6f9449218a68.png",
     "gitHub": "https://github.com/BrianMacia/entregable-4",
@@ -82,7 +82,7 @@
   },
   {
     "id": 11,
-    "category": "back",
+    "category": "full",
     "name": "Academlo Ecommers",
     "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
     "gitHub": "https://github.com/BrianMacia/NodeJS-PROYECTO-FINAL-ECOMMERS",

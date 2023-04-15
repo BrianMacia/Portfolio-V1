@@ -47,18 +47,7 @@ const Information = () => {
           <span>Full Stack Web  </span> 
           <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack </p>
         </div>
-        <div>
-          <span>Conceptos Web</span>
-          <p className="myInfoCardText">Certificado de fundamentos en HTML, CSS y Javascript</p>
-        </div>
-        <div>
-          <span>React</span>
-          <p className="myInfoCardText">Certificado en el desarrollo front-end con el módulo React</p>
-        </div>
-        <div>
-          <span>Node.js</span>
-          <p className="myInfoCardText">Certificado en desarrollo Back-End con Node.js</p>
-        </div>
+        
       </div>
 
       <li className="card-education">
@@ -68,7 +57,13 @@ const Information = () => {
             <p>Diferentes conceptos de la Programación.</p>
           </li>
 
-
+<div>
+<div>
+          <span>Conceptos Web</span>
+          <p className="myInfoCardText">Certificado de fundamentos en HTML, CSS y Javascript</p>
+        </div>
+        
+</div>
 
           <li className="card-education">
             <span>AGO_2021 - ...</span>
@@ -76,7 +71,13 @@ const Information = () => {
             <h6>Autodidacta</h6>
             <p>Diferentes conceptos de la Programación.</p>
           </li>
-
+<div>
+<div>
+          <span>React</span>
+          <p className="myInfoCardText">Certificado en el desarrollo front-end con el módulo React</p>
+        </div>
+        
+</div>
           <li className="card-education">
             <span>AGO_2021 - ...</span>
             <h4>Udemy - Youtube - Google - ...</h4>
@@ -84,7 +85,12 @@ const Information = () => {
             <p>Diferentes conceptos de la Programación.</p>
           </li>
 
-
+<div>
+  <div>
+          <span>Node.js</span>
+          <p className="myInfoCardText">Certificado en desarrollo Back-End con Node.js</p>
+   </div>
+</div>
         </ul>
       </div>
        
