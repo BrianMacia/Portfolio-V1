@@ -50,7 +50,7 @@ const Information = () => {
        
           <span>Full Stack Web  </span> 
            
-          <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack <a href="https://certificates.academlo.com/en/verify/60635838424675"></a> </p>
+          <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack </p>
           
           
         </div>
