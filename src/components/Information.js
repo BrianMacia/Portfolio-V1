@@ -33,12 +33,7 @@ const Information = () => {
             <h4>Academblo</h4>
             <h6>Bootcamp-Mexico</h6>
             <p>Programación Web Full-Stack</p>
-            <a
-                className="btn-cursor-hover"
-                href="https://certificates.academlo.com/en/verify/60635838424675"
-                target="_blank"
-                rel="noreferrer"
-              ></a>
+            
           </li>
 
 
