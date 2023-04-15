@@ -268,15 +268,6 @@
   color: #fff;
 }
 
-
-
-
-
-
-
-
-
-
 .myInfoCardText02 {
   min-width: 100px;
   position: absolute;
@@ -291,13 +282,180 @@
   transition: 0.3s;
 }
 
-
-
-
 .myInfoCard02 div:hover .myInfoCardText {
   opacity: 1;
 }
 
 .myInfoCard02 div:nth-child(1):hover {
   background-image: url("https://user-images.githubusercontent.com/43327840/232231162-25ac7d04-97ed-4fa7-aa27-0db8311ea81b.png");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.myInfoCard03 {
+  width: 100%;
+  max-width: 350px;
+  margin: auto;
+  height: 200px;
+  border-radius: 4px;
+  background: var(--solid-color);
+  display: flex;
+  gap: 5px;
+  padding: 0.4em;
+}
+
+.myInfoCard03 div {
+  height: 100%;
+  flex: 1;
+  overflow: hidden;
+  border-radius: 2px;
+  transition: all 0.5s;
+  border: 1px solid var(--primary-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-blend-mode: multiply;
+  background-color: var(--transparent-color);
+}
+
+.myInfoCard03 div:hover {
+  flex: 4;
+  background-size: cover;
+  background-position: center;
+}
+
+.myInfoCard03 div span {
+  min-width: 10em;
+  padding: 0.5em;
+  text-align: center;
+  transform: rotate(-90deg);
+  transition: all 0.5s;
+  text-transform: uppercase;
+  color: var(--primary-color);
+  letter-spacing: 0.1em;
+}
+
+.myInfoCard03 div:hover span {
+  transform: rotate(0);
+  color: #fff;
+}
+
+.myInfoCardText03 {
+  min-width: 100px;
+  position: absolute;
+  bottom: 20px;
+  text-align: center;
+  padding: 10px 5px;
+  font-size: 12px;
+  opacity: 0;
+  border-radius: 10px;
+  color: #fff;
+  border: 1px solid #fff;
+  transition: 0.3s;
+}
+
+.myInfoCard03 div:hover .myInfoCardText {
+  opacity: 1;
+}
+
+.myInfoCard03 div:nth-child(1):hover {
+  background-image: url("https://user-images.githubusercontent.com/43327840/232231232-a11db100-c025-42ad-a7ae-40d55ed169a4.png");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.myInfoCard04 {
+  width: 100%;
+  max-width: 350px;
+  margin: auto;
+  height: 200px;
+  border-radius: 4px;
+  background: var(--solid-color);
+  display: flex;
+  gap: 5px;
+  padding: 0.4em;
+}
+
+.myInfoCard04 div {
+  height: 100%;
+  flex: 1;
+  overflow: hidden;
+  border-radius: 2px;
+  transition: all 0.5s;
+  border: 1px solid var(--primary-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-blend-mode: multiply;
+  background-color: var(--transparent-color);
+}
+
+.myInfoCard04 div:hover {
+  flex: 4;
+  background-size: cover;
+  background-position: center;
+}
+
+.myInfoCard04 div span {
+  min-width: 10em;
+  padding: 0.5em;
+  text-align: center;
+  transform: rotate(-90deg);
+  transition: all 0.5s;
+  text-transform: uppercase;
+  color: var(--primary-color);
+  letter-spacing: 0.1em;
+}
+
+.myInfoCard04 div:hover span {
+  transform: rotate(0);
+  color: #fff;
+}
+
+.myInfoCardText04 {
+  min-width: 100px;
+  position: absolute;
+  bottom: 20px;
+  text-align: center;
+  padding: 10px 5px;
+  font-size: 12px;
+  opacity: 0;
+  border-radius: 10px;
+  color: #fff;
+  border: 1px solid #fff;
+  transition: 0.3s;
+}
+
+.myInfoCard04 div:hover .myInfoCardText {
+  opacity: 1;
+}
+
+.myInfoCard04 div:nth-child(1):hover {
+  background-image: url("https://user-images.githubusercontent.com/43327840/232231293-d9417daf-5c3d-4b4b-8b37-9c8ad43bbdb9.png");
 }
