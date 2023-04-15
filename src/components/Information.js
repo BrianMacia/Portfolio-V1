@@ -40,20 +40,20 @@ const Information = () => {
 
           <div className="myInfoCard">
         <div>
-          <span>E</span>
-          <p className="myInfoCardText">27</p>
+          <span>Full Stack Web</span>
+          <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack</p>
         </div>
         <div>
-          <span>P</span>
-          <p className="myInfoCardText">Argentina, Buenos Aires</p>
+          <span>HTML, CSS y Javascript</span>
+          <p className="myInfoCardText">Certificado de fundamentos en HTML, CSS y Javascript</p>
         </div>
         <div>
-          <span>D</span>
-          <p className="myInfoCardText">Rastrillos (LEGOS)</p>
+          <span>React</span>
+          <p className="myInfoCardText">Certificado en el desarrollo front-end con el módulo React</p>
         </div>
         <div>
-          <span>M</span>
-          <p className="myInfoCardText">Conocer el Mundo</p>
+          <span>Node.js</span>
+          <p className="myInfoCardText">Certificado en desarrollo Back-End con Node.js</p>
         </div>
       </div>
 
