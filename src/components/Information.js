@@ -55,9 +55,7 @@ const Information = () => {
     </li>
 
 
-    <h2 className="secondary-subtitle">
-         
-        </h2>
+    
 
 
 
