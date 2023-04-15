@@ -47,11 +47,11 @@ const Information = () => {
 
             
             
-        <h2>VERIFICAR</h2> 
-          <span>Full Stack Web  </span> 
-           <h2>VERIFICAR</h2> 
-          <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack</p>
-          <h2>VERIFICAR</h2> 
+       
+          <span>Full Stack Web <h2>VERIFICAR</h2>  </span> 
+           
+          <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack <h2>VERIFICAR</h2> </p>
+         
           
         </div>
 
