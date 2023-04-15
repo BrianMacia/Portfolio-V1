@@ -60,7 +60,9 @@ const Information = () => {
 
 
 
-    
+    <li className="card-education">
+    <h2>FUNDAMENTOS EN HTML,CSS Y JAVASCRIPT</h2>
+    </li>
   <div className="myInfoCard02">
    <div>
    
@@ -106,7 +108,7 @@ const Information = () => {
 
 
 
-    <h2 className="secondary-subtitle"></h2>
+ <h2 className="secondary-subtitle"></h2>
 
 
 
