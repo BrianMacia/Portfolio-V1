@@ -54,7 +54,7 @@ const Information = () => {
           
           
         </div>
-
+        <div>
         <li className="card-education">
             <span>Verificar certificado en web</span>
             <h4>Full Stack Web </h4>
@@ -62,6 +62,7 @@ const Information = () => {
             <p>Programación Web Full-Stack</p>
             
           </li>
+          </div>
 
 
 
