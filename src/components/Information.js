@@ -57,14 +57,13 @@ const Information = () => {
 
     <h2 className="secondary-subtitle">
          
-          Educación
         </h2>
 
 
 
 
     <li className="card-education">
-    <h4>FUNDAMENTOS EN HTML,CSS Y JAVASCRIPT</h4>
+    <h2>FUNDAMENTOS EN HTML,CSS Y JAVASCRIPT</h2>
     </li>
   <div className="myInfoCard02">
    <div>
