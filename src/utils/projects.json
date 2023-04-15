@@ -21,7 +21,7 @@
 
   {
     "id": 3,
-    "category": "front",
+    "category": "full",
     "name": "Ecommerce",
     "img": "https://user-images.githubusercontent.com/43327840/218765571-53b3b86e-85b8-470d-9e7b-efbade12d846.png",
     "gitHub": "https://github.com/BrianMacia/ecommerce",
@@ -82,7 +82,7 @@
   },
   {
     "id": 11,
-    "category": "full",
+    "category": "back",
     "name": "Academlo Ecommers",
     "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
     "gitHub": "https://github.com/BrianMacia/NodeJS-PROYECTO-FINAL-ECOMMERS",
