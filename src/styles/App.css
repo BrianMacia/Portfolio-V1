@@ -67,7 +67,9 @@ body {
 .btn-cursor-hover {
   cursor: url("../assets/cursor-2.cur"), auto;
 }
-
+.btn-cursor-hover2 {
+  cursor: url("../assets/cursor-3.cur"), auto;
+}
 .btn-cursor-hover-text {
   cursor: url("../assets/cursor-3.cur"), auto;
 }
