@@ -42,7 +42,9 @@ const Information = () => {
         <div>
         
           <span>Full Stack Web </span> 
-          
+          <body>
+            <a href="http://example.com/" style="color:#FF0000;">Red Link</a>
+            </body>
           <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack <a href="https://certificates.academlo.com/en/verify/60635838424675"> CERTIFICAR EN WEB  </a> </p>
           
           
