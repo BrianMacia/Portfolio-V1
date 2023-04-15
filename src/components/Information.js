@@ -47,7 +47,7 @@ const Information = () => {
   </div>
 
     <li className="card-education">
-            <span><a href="https://certificates.academlo.com/en/verify/60635838424675"><h6>VERIFICAR EN WEB</h6></a></span>
+            <span><a href="https://certificates.academlo.com/en/verify/60635838424675"><h1>VERIFICAR EN WEB</h1></a></span>
     </li>
 
   <div className="myInfoCard01">
