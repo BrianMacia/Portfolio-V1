@@ -44,13 +44,13 @@ const Information = () => {
           <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack </p>
         </div>
         
-     
+      </div>
 
     <li className="card-education">
             <span><a href="https://certificates.academlo.com/en/verify/60635838424675"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
     </li>
-  </div>
-  <div className="myInfoCard01">
+
+  <div className="myInfoCard02">
    <div>
       <span>Conceptos Web</span>
         <p className="myInfoCardText">Certificado de fundamentos en HTML, CSS y Javascript</p>
@@ -62,7 +62,7 @@ const Information = () => {
     </li>
 
 
-   <div className="myInfoCard01">
+   <div className="myInfoCard03">
    <div>
      <span>React</span>
      <p className="myInfoCardText">Certificado en el desarrollo front-end con el módulo React</p>
@@ -75,7 +75,7 @@ const Information = () => {
     </li>
 
 
-   <div className="myInfoCard01">
+   <div className="myInfoCard04">
      <div>
           <span>Node.js</span>
           <p className="myInfoCardText">Certificado en desarrollo Back-End con Node.js</p>

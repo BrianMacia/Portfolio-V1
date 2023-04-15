@@ -198,14 +198,14 @@
   background-image: url("https://user-images.githubusercontent.com/43327840/232231111-61cdf543-d423-4ca6-ae23-d22df9e2dba7.png");
 }
 
-.myInfoCard01 div:nth-child(2):hover {
+.myInfoCard02 div:nth-child(2):hover {
   background-image: url("https://user-images.githubusercontent.com/43327840/232231162-25ac7d04-97ed-4fa7-aa27-0db8311ea81b.png");
 }
 
-.myInfoCard01 div:nth-child(3):hover {
+.myInfoCard03 div:nth-child(3):hover {
   background-image: url("https://user-images.githubusercontent.com/43327840/232231232-a11db100-c025-42ad-a7ae-40d55ed169a4.png");
 }
 
-.myInfoCard01 div:nth-child(4):hover {
+.myInfoCard04 div:nth-child(4):hover {
   background-image: url("https://user-images.githubusercontent.com/43327840/232231293-d9417daf-5c3d-4b4b-8b37-9c8ad43bbdb9.png");
 }
