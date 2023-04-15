@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "category": "front",
+    "name": "Weather-App",
+    "img": "https://user-images.githubusercontent.com/43327840/218757429-c47ed059-7cdc-4ed3-b82e-d3d6cd78338a.png",
+    "gitHub": "https://github.com/BrianMacia/Wheather-App-e2-REACT",
+    "web": "https://wheather-app-e2-react-brian-macia.netlify.app/",
+    "description": "App que muestra datos del clima segun tu ubicacion"
+  },
+
+  {
+    "id": 2,
+    "category": "front",
+    "name": "PokeApi",
+    "img": "https://user-images.githubusercontent.com/43327840/218760647-f5c50073-f2c8-46c4-aad1-17d3a3c48be1.png",
+    "gitHub": "https://github.com/BrianMacia/pokedex-e5-brianmacia",
+    "web": "https://pokedex-e5-brianmacia.netlify.app/",
+    "description": "Lista todos los pokemones, a la vez muestra sus detalles"
+  },
+
+  {
+    "id": 3,
+    "category": "front",
+    "name": "Ecommerce",
+    "img": "https://user-images.githubusercontent.com/43327840/218765571-53b3b86e-85b8-470d-9e7b-efbade12d846.png",
+    "gitHub": "https://github.com/BrianMacia/ecommerce",
+    "web": "https://ecomers-practica.netlify.app/",
+    "description": "Simulacion de una tienda virtual"
+  },
+
+  {
+    "id": 5,
+    "category": "full",
+    "name": "CRUD",
+    "img": "https://user-images.githubusercontent.com/43327840/218867733-74d72cbd-f050-485a-b241-6f9449218a68.png",
+    "gitHub": "https://github.com/BrianMacia/entregable-4",
+    "web": "https://entregable4-brianmacia.netlify.app//",
+    "description": "Crea, lee, actualiza y elimina datos"
+  },
+  {
+    "id": 4,
+    "category": "front",
+    "name": "Rick-and-Morty",
+    "img": "https://user-images.githubusercontent.com/43327840/218868219-2ba5128e-9047-42ad-9447-9804719788a5.png",
+    "gitHub": "https://github.com/BrianMacia/ENTREGABLE-3-REACT",
+    "web": "https://entregable-3-react-brianmacia.netlify.app/",
+    "description": "Lista personajes de la serie Rick And Morty"
+  },
+  {
+    "id": 9,
+    "category": "front",
+    "name": "Frases",
+    "img": "https://user-images.githubusercontent.com/43327840/218869030-6c884612-1214-4085-aff2-1190edaad5d0.png",
+    "gitHub": "https://github.com/BrianMacia/Entregable-1-REACT",
+    "web": "https://entregable-1-react-brian-macia.netlify.app/",
+    "description": "Frases aleatorias"
+  },
+
+  {
+    "id": 12,
+    "category": "back",
+    "name": "crear una API para una web de cursos",
+    "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
+    "gitHub": "https://github.com/BrianMacia/entregable-3-NJ"
+  },
+  {
+    "id": 10,
+    "category": "back",
+    "name": "Todo App",
+    "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
+    "gitHub": "https://github.com/BrianMacia/entregable-2-nodejs",
+    "description": "creado los endpoints para responder las consultas a usuarios"
+  },
+  {
+    "id": 7,
+    "category": "back",
+    "name": "Json API",
+    "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
+    "gitHub": "https://github.com/BrianMacia/ENTREGA-1",
+    "description": "Realizar una json api usando Express."
+  },
+  {
+    "id": 11,
+    "category": "back",
+    "name": "Academlo Ecommers",
+    "img": "https://gamanet.pe/wp-content/uploads/2016/08/api.png",
+    "gitHub": "https://github.com/BrianMacia/NodeJS-PROYECTO-FINAL-ECOMMERS",
+    "description": "API desde 0 para lanzar producción en Railway/render"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+  
