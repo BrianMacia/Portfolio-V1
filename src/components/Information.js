@@ -47,17 +47,20 @@ const Information = () => {
       </div>
 
     <li className="card-education">
+    <h4>DESARROLLO FULL STACK </h4>
             <span><a href="https://certificates.academlo.com/en/verify/60635838424675"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
     </li>
 
   <div className="myInfoCard02">
    <div>
+   
       <span>Conceptos Web</span>
         <p className="myInfoCardText">Certificado de fundamentos en HTML, CSS y Javascript</p>
     </div>
   </div>
 
   <li className="card-education">
+  <h4>FUNDAMENTOS EN HTML,CSS Y JAVASCRIPT </h4>
             <span><a href="https://certificates.academlo.com/en/verify/64738374161194"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
     </li>
 
@@ -71,7 +74,9 @@ const Information = () => {
 
 
   <li className="card-education">
+            <h4>REACT  </h4>  
             <span><a href="https://certificates.academlo.com/en/verify/44295574101172"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
+            
     </li>
 
 
@@ -83,6 +88,7 @@ const Information = () => {
     </div>
     
     <li className="card-education">
+    <h4>CERTIFICADO EN DESARROLO EN BLACK END </h4>
             <span><a href="https://certificates.academlo.com/en/verify/01441593906296"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
     </li>
 
