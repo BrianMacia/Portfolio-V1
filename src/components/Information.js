@@ -47,9 +47,7 @@ const Information = () => {
   </div>
 
     <li className="card-education">
-            <span>AGO_2021 - ...</span>
-            <h4>Udemy - Youtube - Google - ...</h4>
-            <h6>Autodidacta</h6>
+            <span><a href="https://certificates.academlo.com/en/verify/60635838424675">VERIFICAR EN WEB</a></span>
             <p>Diferentes conceptos de la Programación.</p>
     </li>
 
