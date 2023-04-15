@@ -48,9 +48,30 @@ const Information = () => {
 
 
         </ul>
-
+      </div>
+       
+      <div className="myInfoCard">
+        <div>
+          <span>Edad</span>
+          <p className="myInfoCardText">27</p>
+        </div>
+        <div>
+          <span>País</span>
+          <p className="myInfoCardText">Argentina, Buenos Aires</p>
+        </div>
+        <div>
+          <span>De pequeño jugaba con</span>
+          <p className="myInfoCardText">Rastrillos (LEGOS)</p>
+        </div>
+        <div>
+          <span>Me gustaría</span>
+          <p className="myInfoCardText">Conocer el Mundo</p>
+        </div>
+      
 
       </div>
+
+
       <div className="skill">
         <h2 className="secondary-subtitle">
           <i className="bx bxs-wrench bx-tada"></i>Habilidades
