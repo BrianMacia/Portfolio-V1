@@ -50,7 +50,7 @@ const Information = () => {
             <span><a href="https://certificates.academlo.com/en/verify/60635838424675"><h1>VERIFICAR CERTIFICADO EN WEB</h1></a></span>
     </li>
 
-  <div className="myInfoCard01">
+  <div className="myInfoCard02">
    <div>
       <span>Conceptos Web</span>
         <p className="myInfoCardText">Certificado de fundamentos en HTML, CSS y Javascript</p>
