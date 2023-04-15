@@ -49,20 +49,14 @@ const Information = () => {
             
        
           <span>Full Stack Web  </span> 
-           
+          <li className="card-education">
+           <span>Verificar certificado en web</span>
+           </li>
           <p className="myInfoCardText">Certificado de programa de desarrollo web Full Stack </p>
           
           
         </div>
-        <div>
-        <li className="card-education">
-            <span>Verificar certificado en web</span>
-            <h4>Full Stack Web </h4>
-            <h6>Academlo</h6>
-            <p>Programación Web Full-Stack</p>
-            
-          </li>
-          </div>
+       
 
 
 
